@@ -1,0 +1,1212 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* advanced_common_day_book
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-27 08:02+0000\n"
+"PO-Revision-Date: 2021-09-27 08:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b> :نوع المعاملة</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>:إلي تاريخ</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>:تاريخ</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>:عميل</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>:من التاريخ</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>:نوع المعاملة</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>:يكتب</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Credit</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+msgid "<b>Customer/Employee</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Customer:</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Customer</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Date:</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Date</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+msgid "<b>Day Book Report</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Debit</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Description</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+msgid "<b>Expense Report</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>From Date:</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+msgid "<b>Invoice Amount </b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Invoice Amount</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+msgid "<b>Purchase Report</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Sales Report</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Source</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>To Date:</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Total</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+msgid "<b>Transaction Type:</b>:All"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+msgid "<b>Transaction Type:</b>Expense"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+msgid "<b>Transaction Type:</b>Purchase"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Transaction Type:</b>Sale"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_view_1
+msgid "<b>Type:</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+msgid "<b>Vendor:</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_view_1
+msgid "<b>Vendor</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>إلي تاريخ:</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+msgid "<b>إلي تاريخ</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>الإئتمان</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>الإئتمان<br/>Credit</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+msgid "<b>العميل / الموظف</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+msgid "<b>العميل / الموظف<br/>Customer/Employee</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+msgid "<b>المبلغ الإجمالي</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+msgid "<b>بائع:</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+msgid "<b>بائع</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+msgid "<b>بائع<br/>Vendor</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>تاريخ:</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>تاريخ</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>تاريخ<br/>Date</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+msgid "<b>تقرير الشراء</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+msgid "<b>تقرير الشراء<br/>Purchase Report</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+msgid "<b>تقرير الكتاب اليومي</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+msgid "<b>تقرير الكتاب اليومي<br/>Day Book Report</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>تقرير المبيعات</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>تقرير المبيعات<br/>Sales Report</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+msgid "<b>تقرير المصاريف</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+msgid "<b>تقرير المصاريف<br/>Expense Report</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>دين</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>دين<br/>Debit</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>عميل:</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>عميل</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>عميل<br/>Customer</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+msgid "<b>قيمة الفاتورة </b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>قيمة الفاتورة</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+msgid "<b>قيمة الفاتورة<br/>Invoice Amount </b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>قيمة الفاتورة<br/>Invoice Amount</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>مجموع/Total</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>مجموع</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>مصدر</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>مصدر<br/>Source</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>من التاريخ:</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+msgid "<b>من التاريخ</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+msgid "<b>نوع المعاملة:</b>Expense"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+msgid "<b>نوع المعاملة:</b>Purchase"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>نوع المعاملة:</b>Sale"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+msgid "<b>نوع المعاملة</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+msgid "<b>نوع المعاملة</b>:All"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+msgid "<b>نوع المعاملة</b>:Expense"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+msgid "<b>نوع المعاملة</b>:Purchase"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+msgid "<b>نوع المعاملة</b>:Sale"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+msgid "<b>نوع المعاملة</b>All"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+msgid "<b>نوع المعاملة</b>Expense"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+msgid "<b>نوع المعاملة</b>Purchase"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+msgid "<b>نوع المعاملة</b>Sale"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>وصف</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_en_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_en_ar_view_1
+msgid "<b>وصف<br/>Description</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>وع المعاملة:</b>Sale"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.expense_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_ar_view_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_ar_view_1
+msgid "<b>يكتب:</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_2
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_view_en_ar
+msgid "<b>يكتب</b>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_layout_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_layout_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_layout_2
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_layout_3
+msgid "<span style=\"color:gray;\"> Powered by Enzapps</span>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_layout_2
+msgid "<span style=\"color:gray;\">Powered by Enzapps</span>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_form_1
+msgid ""
+"<strong>\n"
+"\n"
+"                                                            <span>\n"
+"                                                                Invoice Amount:\n"
+"                                                            </span>\n"
+"                                                            </strong>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_form_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_line_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.report_expense_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_form
+msgid ""
+"<strong>\n"
+"                                                                <span>\n"
+"                                                                    Date:\n"
+"                                                                </span>\n"
+"                                                            </strong>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_form_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_line_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.report_expense_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_form
+msgid ""
+"<strong>\n"
+"                                                                Credit:\n"
+"                                                                </strong>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_form_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_line_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.report_expense_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_form
+msgid ""
+"<strong>\n"
+"                                                                Debit:\n"
+"                                                                </strong>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.report_expense_form
+msgid ""
+"<strong>\n"
+"                                                            <span>\n"
+"                                                                Customer/Employee:\n"
+"                                                            </span>\n"
+"                                                            </strong>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_form_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_form
+msgid ""
+"<strong>\n"
+"                                                            <span>\n"
+"                                                                Customer:\n"
+"                                                            </span>\n"
+"                                                            </strong>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_form_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_line_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.report_expense_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_form
+msgid ""
+"<strong>\n"
+"                                                            <span>\n"
+"                                                                Description:\n"
+"                                                            </span>\n"
+"                                                            </strong>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_line_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.report_expense_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_form
+msgid ""
+"<strong>\n"
+"                                                            <span>\n"
+"                                                                Invoice Amount:\n"
+"                                                            </span>\n"
+"                                                            </strong>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_form_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_line_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.report_expense_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_form
+msgid ""
+"<strong>\n"
+"                                                            <span>\n"
+"                                                                Source:\n"
+"                                                            </span>\n"
+"                                                            </strong>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_line_form
+msgid ""
+"<strong>\n"
+"                                                            <span>\n"
+"                                                                Vendor:\n"
+"                                                            </span>\n"
+"                                                            </strong>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__transaction_type_all
+msgid "All"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__all_check
+msgid "All Check"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.ui.menu,name:advanced_common_day_book.common_day_book_id_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_form_1
+msgid "Common Day Book"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.act_window,name:advanced_common_day_book.common_day_book_menu_action_1
+msgid "Common Day Book Form"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__common_day_book_line
+msgid "Common Day Book Line"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__common_day_book_lines
+msgid "Common Day Book Lines"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.report,name:advanced_common_day_book.common_day_book_report_1
+msgid "Common Day Book Report"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.report,name:advanced_common_day_book.common_day_book_report_en_ar
+msgid "Common Day Book Report/تقرير الكتاب اليومي"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__company_id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__company_id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__company_id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__company_id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__company_id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__company_id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__company_id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__company_id
+msgid "Company"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.actions.act_window,help:advanced_common_day_book.common_day_book_menu_action_1
+#: model_terms:ir.actions.act_window,help:advanced_common_day_book.purchase_report_menu_action
+#: model_terms:ir.actions.act_window,help:advanced_common_day_book.report_expense_menu_action
+#: model_terms:ir.actions.act_window,help:advanced_common_day_book.sales_report_menu_action
+msgid "Create New Record Form Here."
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__create_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__create_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__create_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__create_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__create_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__create_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__create_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__create_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__create_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__create_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__create_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__create_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__create_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__create_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__credit
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__credit
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__credit
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__credit
+msgid "Credit"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__customer_name
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__customer
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__customer
+msgid "Customer"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__customer_employee
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__customer
+msgid "Customer/Employee"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__date
+msgid "Date"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields.selection,name:advanced_common_day_book.selection__common_day_book__type__date_wise
+#: model:ir.model.fields.selection,name:advanced_common_day_book.selection__purchase_report_line__type__date_wise
+#: model:ir.model.fields.selection,name:advanced_common_day_book.selection__report_expense__type__date_wise
+#: model:ir.model.fields.selection,name:advanced_common_day_book.selection__sales_report__type__date_wise
+msgid "Date Wise"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields.selection,name:advanced_common_day_book.selection__common_day_book__type__day_book
+#: model:ir.model.fields.selection,name:advanced_common_day_book.selection__purchase_report_line__type__day_book
+#: model:ir.model.fields.selection,name:advanced_common_day_book.selection__report_expense__type__day_book
+#: model:ir.model.fields.selection,name:advanced_common_day_book.selection__sales_report__type__day_book
+msgid "Day Book"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__debit
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__debit
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__debit
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__debit
+msgid "Debit"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__description
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__description
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__description
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__description
+msgid "Description"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_account_payment__display_name
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__display_name
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__display_name
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__display_name
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__display_name
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__display_name
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__display_name
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__display_name
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__exp_check
+msgid "Exp Check"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__transaction_type_expense
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__transaction_type_expense
+msgid "Expense"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_account_payment__expense_ref
+msgid "Expense Ref"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.act_window,name:advanced_common_day_book.report_expense_menu_action
+#: model:ir.actions.report,name:advanced_common_day_book.expense_report_en
+#: model:ir.ui.menu,name:advanced_common_day_book.expense_report_ids
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.report_expense_form
+msgid "Expense Report"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.report,name:advanced_common_day_book.expense_report_en_ar
+msgid "Expense Report/تقرير المصاريف"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__from_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__from_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__from_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__from_date
+msgid "From Date"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_account_payment__id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__id
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__id
+msgid "ID"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__invoice_amount
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__invoice_amount
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__invoice_amount
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__invoice_amount
+msgid "Invoice Amount"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_account_payment____last_update
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book____last_update
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines____last_update
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line____last_update
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines____last_update
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense____last_update
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line____last_update
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report____last_update
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__write_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__write_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__write_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__write_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__write_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__write_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__write_uid
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__write_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__write_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__write_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__write_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__write_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__write_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__write_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_layout_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_layout_2
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_layout_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_layout_2
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_layout_3
+msgid "Logo"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__name
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__name
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__name
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__name
+msgid "Name"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_layout_2
+msgid ""
+"Page:\n"
+"                                <span class=\"page\"/>\n"
+"                                /\n"
+"                                <span class=\"topage\"/>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_layout_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_layout_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_layout_2
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_layout_3
+msgid ""
+"Page:\n"
+"                <span class=\"page\"/>\n"
+"                         /\n"
+"                 <span class=\"topage\"/>"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model,name:advanced_common_day_book.model_account_payment
+msgid "Payments"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_form_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_line_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.report_expense_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_form
+msgid "Print"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__pur_check
+msgid "Pur Check"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__transaction_type_purchase
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__transaction_type_purchase
+msgid "Purchase"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.ui.menu,name:advanced_common_day_book.purchase_analysis_ids
+msgid "Purchase Analysis"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.act_window,name:advanced_common_day_book.purchase_report_menu_action
+#: model:ir.actions.report,name:advanced_common_day_book.purchase_report_en
+#: model:ir.ui.menu,name:advanced_common_day_book.purchase_report_ids
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_line_form
+msgid "Purchase Report"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__purchase_report_line
+msgid "Purchase Report Line"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__purchase_report_lines
+msgid "Purchase Report Lines"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.report,name:advanced_common_day_book.purchase_report_en_ar
+msgid "Purchase Report/تقرير الشراء"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__report_expense_lines
+msgid "Report Expense Lines"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__report_expenses
+msgid "Report Expenses"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_form_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_line_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.report_expense_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_form
+msgid "Reports"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__transaction_type_sale
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__transaction_type_sale
+msgid "Sale"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__sale_check
+msgid "Sale Check"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__sale_report_lines
+msgid "Sale Report Lines"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.act_window,name:advanced_common_day_book.sales_report_menu_action
+#: model:ir.actions.report,name:advanced_common_day_book.sale_report_en
+#: model:ir.ui.menu,name:advanced_common_day_book.sales_report_id
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_form
+msgid "Sales Report"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__sales_report_lines
+msgid "Sales Report Lines"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.report,name:advanced_common_day_book.sale_report_en_ar
+msgid "Sales Report/تقرير المبيعات"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book_lines__source
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__source
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense_line__source
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report_lines__source
+msgid "Source"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__to_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__to_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__to_date
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__to_date
+msgid "To Date"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_form_1
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.purchase_report_line_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.report_expense_form
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.sales_report_form
+msgid "Total"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__transaction_type
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__transaction_type
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__transaction_type
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__transaction_type
+msgid "Transaction Type"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_common_day_book__type
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__type
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_report_expense__type
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_sales_report__type
+msgid "Type"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_line__vendor
+#: model:ir.model.fields,field_description:advanced_common_day_book.field_purchase_report_lines__vendor
+msgid "Vendor"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model,name:advanced_common_day_book.model_common_day_book
+msgid "common.day.book"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model,name:advanced_common_day_book.model_common_day_book_lines
+msgid "common.day.book.lines"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model,name:advanced_common_day_book.model_purchase_report_line
+msgid "purchase.report.line"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model,name:advanced_common_day_book.model_purchase_report_lines
+msgid "purchase.report.lines"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model,name:advanced_common_day_book.model_report_expense
+msgid "report.expense"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model,name:advanced_common_day_book.model_report_expense_line
+msgid "report.expense.line"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model,name:advanced_common_day_book.model_sales_report
+msgid "sales.report"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.model,name:advanced_common_day_book.model_sales_report_lines
+msgid "sales.report.lines"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.report,name:advanced_common_day_book.purchase_report_ar
+msgid "تقرير الشراء"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.report,name:advanced_common_day_book.common_day_book_report_2
+msgid "تقرير الكتاب اليومي"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.report,name:advanced_common_day_book.sale_report_ar
+msgid "تقرير المبيعات"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model:ir.actions.report,name:advanced_common_day_book.expense_report_ar
+msgid "تقرير المصاريف"
+msgstr ""
+
+#. module: advanced_common_day_book
+#: model_terms:ir.ui.view,arch_db:advanced_common_day_book.common_day_book_layout_2
+msgid ""
+"٠٥٣٥٥٥٤٠٨٧- المملكة العربية السعودية- الجبيل - شارع التميمي-حي الضباب "
+"تلفاكس: ٣٣٦١٢٦٦٦-جوال : ٠٥٣٣٤٠٠١٥٩ ـ ٠٥٣٥٥٥٤٠٦٩ ـ ٠٥٣٥٥٥٤٠٧١ ـ"
+msgstr ""
